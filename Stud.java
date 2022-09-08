@@ -1,4 +1,4 @@
-java code to input student id , student name,student attendence.
+//java code to input student id , student name,student attendence.
 import java.util.Scanner;
 class Stud
  {
